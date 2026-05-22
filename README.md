@@ -32,7 +32,7 @@
 ## 🧑‍💻 About Me
 ```yaml
 name: Chi-An (Oscar) Fu
-location: Pittsburgh, PA
+location: Taipei, Taiwan -> Pittsburgh, PA, USA
 education:
   - degree: Master of Science in Artificial Intelligence Engineering (ECE)
     university: Carnegie Mellon University
@@ -47,11 +47,10 @@ specialization:
   - AI Infrastructure & Systems
   - GPU Programming (CUDA / Triton)
   - Low-Level Kernel Optimization
-  - Large-Scale LLM & Computer Vision Deployment
 
 focus_areas:
   - Scalability & efficiency of large-scale model serving
-  - Inference optimization for LLMs and Vision systems
+  - Inference optimization for ML systems
   - High-performance computing for deep learning workloads
 
 fun_fact: I turn research prototypes into hardware-efficient systems 🔧

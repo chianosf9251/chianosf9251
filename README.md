@@ -3,9 +3,9 @@
 <!-- Header -->
 # 👋 Hi, I'm Chi-An (Oscar) Fu
 
-🎓 Senior EE Student @ National Taiwan University<br/>
-🔬 Research Intern @ NTU & UIUC & Academia Sinica<br/>
-🤖 Building Robust AI Systems for the Real World<br/>
+🎓 MS AIE (ECE) @ Carnegie Mellon University<br/>
+⚡ AI Infrastructure · GPU Programming (CUDA/Triton) · Low-Level Optimization<br/>
+🚀 Bridging the Gap Between Research and Hardware-Constrained Deployment<br/>
 
 <!-- Social Badges -->
 <p>
@@ -32,24 +32,29 @@
 ## 🧑‍💻 About Me
 ```yaml
 name: Chi-An (Oscar) Fu
-location: Taipei, Taiwan
+location: Pittsburgh, PA
 education:
-  university: National Taiwan University
-  major: Bacholar of Science of Electrical Engineering
-  status: Senior
-  
-roles:
-  - Research Intern @ UIUC Intelligent CAT Laboratory
-  - Research Assistant @ Academia Sinica IIS
-  - Software Developer Intern @ PicCollage
+  - degree: Master of Science in Artificial Intelligence Engineering (ECE)
+    university: Carnegie Mellon University
+  - degree: Bachelor of Science in Electrical Engineering
+    university: National Taiwan University
 
-research_interests:
-  - Computer Vision
-  - Multi-Modal AI Systems
-  - Large Language Models
-  - Domain Adaptation & Robustness
-  
-fun_fact: I bridge theoretical ML research with practical applications 🌉
+mission: >
+  Bridging the gap between theoretical AI/ML research and
+  hardware-constrained deployment at scale.
+
+specialization:
+  - AI Infrastructure & Systems
+  - GPU Programming (CUDA / Triton)
+  - Low-Level Kernel Optimization
+  - Large-Scale LLM & Computer Vision Deployment
+
+focus_areas:
+  - Scalability & efficiency of large-scale model serving
+  - Inference optimization for LLMs and Vision systems
+  - High-performance computing for deep learning workloads
+
+fun_fact: I turn research prototypes into hardware-efficient systems 🔧
 ```
 
 
@@ -76,11 +81,16 @@ fun_fact: I bridge theoretical ML research with practical applications 🌉
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### AI Infrastructure & Systems
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-EE4C2C?style=for-the-badge&logo=openai&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 

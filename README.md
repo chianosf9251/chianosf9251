@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://unabashed0501.github.io/oscarfu-portfolio/">
+  <a href="https://chianosf9251.github.io/oscarfu-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/chi-an-fu-62a982261/">
@@ -24,7 +24,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Unabashed0501&style=for-the-badge&color=F59E0B" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=chianosf9251&style=for-the-badge&color=F59E0B" alt="Profile Views"/>
 
 </div>
 
@@ -99,9 +99,9 @@ fun_fact: I turn research prototypes into hardware-efficient systems 🔧
 
 <div align="center">
   
-![unabashed0501's Stats](https://github-readme-stats.vercel.app/api?username=unabashed0501&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![unabashed0501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=unabashed0501&theme=dracula&hide_border=true)
-![unabashed0501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unabashed0501&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![chianosf9251's Stats](https://github-readme-stats.vercel.app/api?username=chianosf9251&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![chianosf9251's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chianosf9251&theme=dracula&hide_border=true)
+![chianosf9251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chianosf9251&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 </div> -->
 
@@ -110,7 +110,7 @@ fun_fact: I turn research prototypes into hardware-efficient systems 🔧
 
 <div align="center">
   
-[![trophy](https://github-trophies.vercel.app/?username=Unabashed0501&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=chianosf9251&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div> -->
 
@@ -120,7 +120,7 @@ fun_fact: I turn research prototypes into hardware-efficient systems 🔧
 
 <div align="center">
   
-[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Unabashed0501&theme=github-compact&hide_border=true&bg_color=0D1117&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&area_color=F59E0B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chianosf9251&theme=github-compact&hide_border=true&bg_color=0D1117&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&area_color=F59E0B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div> -->
 
@@ -130,7 +130,7 @@ fun_fact: I turn research prototypes into hardware-efficient systems 🔧
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Unabashed0501/Unabashed0501/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/chianosf9251/chianosf9251/output/github-contribution-grid-snake-dark.svg)
 
 </div> -->
 
